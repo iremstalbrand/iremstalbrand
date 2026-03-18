@@ -2,7 +2,7 @@
 
 ### ⊹ About Me ⊹
 
-Hey! I'm Irem, a frontend dev student at **Hyper Island** with an industrial engineering background.<br>Currently learning React and working on projects along the way 👾
+Hey! I'm Irem, a frontend dev student at **Hyper Island** with an industrial engineering background.<br>Currently building with React and working on projects along the way.
 
 <br>
 
